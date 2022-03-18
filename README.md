@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @forevrlazy
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Structure and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Implementation of Data Structures and Algorithms with Python
 
-<!---
-forevrlazy/forevrlazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Overview - 
+
+### Data Structures - 
+1. Arrays
+2. Graphs
+3. Hashtables (dictionary)
+4. Linked Lists
+5. Stack and Queues
+
+### Algorithms - 
+1. Dynamic Programming
+2. Recursion
+3. Sorting
+4. Traversals
+      - BFS
+      - DFS
+
